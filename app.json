@@ -1,22 +1,22 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "name": "SAMI-PRO",
+  "description": "Javascript WhatsApp bot made by Sami Inno",
+  "logo": "https://files.catbox.moe/bu7s5t.jpg",
+  "keywords": ["SAMI INNO"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~h3tCHarS#75szxFckAhqgI-TAni2MO6w07iATLdWuBo901Bvru9E",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "@SamiInno" 
         
     },
      "PREFIX": {
@@ -33,20 +33,20 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Sami Inno 256766104887*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "256766104887"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Sami Inno",
       "required": true
     }
 
